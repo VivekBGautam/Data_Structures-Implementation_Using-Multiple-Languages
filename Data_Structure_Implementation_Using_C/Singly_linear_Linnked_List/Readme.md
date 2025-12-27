@@ -3,7 +3,7 @@
 This repository contains a **Singly Linear Linked List** implementation in **C language**. It is designed for learning and practicing **Data Structures** concepts such as dynamic memory allocation, pointers, and linked list operations.
 
 A singly linked list is a collection of nodes where:
-
+ 
 * Each node stores **data**
 * Each node contains a pointer to the **next node**
 * The last node points to **NULL**
