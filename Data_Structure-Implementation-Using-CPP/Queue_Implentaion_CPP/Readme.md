@@ -4,7 +4,7 @@
 
 This project demonstrates the implementation of a **Generic Queue data structure** using **C++ templates**. The queue follows the **FIFO (First In First Out)** principle and is implemented using a **singly linked list**. The program is **menu-driven** and supports basic queue operations.
 
----
+--- 
 
 ## Concepts Used
 
